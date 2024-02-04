@@ -1,0 +1,99 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "json-server",
+            "body": "This is a fake json-server"
+        },    
+        {
+            "id": 2,
+            "title": "json-server",
+            "body": "This is a fake json-server"
+        },    
+        {
+            "id": 3,
+            "title": "json-server",
+            "body": "This is a fake json-server"
+        },    
+        {
+            "id": 4,
+            "title": "json-server",
+            "body": "This is a fake json-server"
+        },    
+        {
+            "id": 5,
+            "title": "json-server",
+            "body": "This is a fake json-server"
+        },    
+        {
+            "id": 6,
+            "title": "json-server",
+            "body": "This is a fake json-server"
+        },    
+        {
+            "id": 7,
+            "title": "json-server",
+            "body": "This is a fake json-server"
+        },    
+        {
+            "id": 8,
+            "title": "json-server",
+            "body": "This is a fake json-server"
+        },    
+        {
+            "id": 9,
+            "title": "json-server",
+            "body": "This is a fake json-server"
+        },    
+        {
+            "id": 10,
+            "title": "json-server",
+            "body": "This is a fake json-server"
+        },    
+        {
+            "id": 11,
+            "title": "json-server",
+            "body": "This is a fake json-server"
+        },    
+        {
+            "id": 12,
+            "title": "json-server",
+            "body": "This is a fake json-server"
+        },    
+        {
+            "id": 13,
+            "title": "json-server",
+            "body": "This is a fake json-server"
+        },    
+        {
+            "id": 14,
+            "title": "json-server",
+            "body": "This is a fake json-server"
+        },    
+        {
+            "id": 15,
+            "title": "json-server",
+            "body": "This is a fake json-server"
+        },    
+        {
+            "id": 16,
+            "title": "json-server",
+            "body": "This is a fake json-server"
+        },    
+        {
+            "id": 17,
+            "title": "json-server",
+            "body": "This is a fake json-server"
+        },    
+        {
+            "id": 18,
+            "title": "json-server",
+            "body": "This is a fake json-server"
+        },    
+        {
+            "id": 19,
+            "title": "json-server",
+            "body": "This is a fake json-server"
+        }
+    ]
+}
